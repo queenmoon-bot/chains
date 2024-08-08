@@ -1,10 +1,7 @@
 {
   "name": "AlienX Mainnet",
   "chain": "AlienX Mainnet",
-  "rpc": [
-    "https://rpc.alienxchain.io/http",
-    "https://alienx.calderachain.xyz/http"
-  ],
+  "rpc": ["https://rpc.alienxchain.io/http"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ethereum",
