@@ -14149,7 +14149,7 @@
   "networkId": 13505,
   "nativeCurrency": {
     "name": "Sepolia Gravity",
-    "symbol": "G.",
+    "symbol": "G",
     "decimals": 18
   },
   "rpc": ["https://rpc-sepolia.gravity.xyz"],
@@ -15715,6 +15715,19 @@
   "rpc": ["https://api.zq2-prototestnet.zilliqa.com"],
   "faucets": ["https://faucet.zq2-prototestnet.zilliqa.com"],
   "infoURL": "https://www.zilliqa.com/"
+}, {
+  "name": "Curtis",
+  "chainId": 33111,
+  "shortName": "curtis",
+  "networkId": 33111,
+  "nativeCurrency": {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": 18
+  },
+  "rpc": ["https://curtis.rpc.caldera.xyz/http"],
+  "faucets": ["https://curtis.hub.caldera.xyz"],
+  "infoURL": "https://curtis.hub.caldera.xyz"
 }, {
   "name": "Entangle Testnet",
   "chainId": 33133,
@@ -20617,6 +20630,19 @@
   "faucets": ["https://faucet.prmscan.org"],
   "infoURL": "https://primalnetwork.org"
 }, {
+  "name": "RUNEVM Testnet",
+  "chainId": 840000,
+  "shortName": "runevm-test",
+  "networkId": 840000,
+  "nativeCurrency": {
+    "name": "Test Bitcoin",
+    "symbol": "tBTC",
+    "decimals": 8
+  },
+  "rpc": ["https://rpc.runevm.io/"],
+  "faucets": ["https://faucet.runevm.io/"],
+  "infoURL": ""
+}, {
   "name": "4GoodNetwork",
   "chainId": 846000,
   "shortName": "bloqs4good",
@@ -21617,6 +21643,19 @@
   "rpc": ["https://sepolia.optimism.io", "https://optimism-sepolia.drpc.org", "wss://optimism-sepolia.drpc.org"],
   "faucets": ["https://app.optimism.io/faucet"],
   "infoURL": "https://optimism.io"
+}, {
+  "name": "Memento Testnet",
+  "chainId": 12052024,
+  "shortName": "memento-test",
+  "networkId": 12052024,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://test-rpc.mementoblockchain.com/IRkghvI3FfEArEJMr4zC/rpc"],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "NeoX Testnet T3",
   "chainId": 12227331,
